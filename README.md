@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# npm i bootstrap react-bootstrap react-router-dom jotai
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
